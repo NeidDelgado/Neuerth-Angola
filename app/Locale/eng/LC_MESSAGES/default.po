@@ -1,0 +1,869 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-07-07 06:55+0100\n"
+"PO-Revision-Date: 2014-07-08 11:28+0100\n"
+"Last-Translator: Neide Delgado <neide.delgado@itelnet.co.ao>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: en_US\n"
+
+
+#: View/Layouts/default.ctp:17
+msgid "/quemsomos"
+msgstr "enterprise"
+
+#: View/Layouts/default.ctp:32;69 View/Layouts/default_home.ctp:32;69
+msgid "Home"
+msgstr "Home"
+
+#: View/Layouts/default.ctp:35;70
+#: View/Pages/quemsomos.ctp:6
+msgid "Quem Somos"
+msgstr "Enterprise"
+
+#: View/Layouts/default.ctp:38;71
+#: View/Pages/linha_reciclagem.ctp:27 View/Pages/quemsomos.ctp:36
+msgid "Linhas de Reciclagem"
+msgstr "Recycling Lines"
+
+#: View/Layouts/default.ctp:42;72 View/Pages/enchimento_oxigenio.ctp:35;65;80
+#: View/Pages/home.ctp:86;106;126
+#: View/Pages/quemsomos.ctp:65;85;105
+#: View/Pages/reciclagem_aluminio.ctp:44;69;84
+#: View/Pages/reciclagem_baterias.ctp:5;40;55;65
+#: View/Pages/reciclagem_plastico.ctp:44;64;84
+msgid "Linha de Reciclagem de Baterias"
+msgstr "Battery Recycling Line"
+
+#: View/Layouts/default.ctp:45;73 View/Pages/enchimento_oxigenio.ctp:45;70;85
+#: View/Pages/home.ctp:91;111;131
+#: View/Pages/quemsomos.ctp:70;90;110
+#: View/Pages/reciclagem_aluminio.ctp:5;39;49;59
+#: View/Pages/reciclagem_baterias.ctp:45;70;86
+#: View/Pages/reciclagem_plastico.ctp:49;74;89
+msgid "Linha de Reciclagem de Alumínio"
+msgstr "Aluminum Recycling Line"
+
+#: View/Layouts/default.ctp:48 View/Pages/enchimento_oxigenio.ctp:55;75;90
+#: View/Pages/home.ctp:96;116;136
+#: View/Pages/quemsomos.ctp:75;95;115
+#: View/Pages/reciclagem_aluminio.ctp:54;74;90
+#: View/Pages/reciclagem_baterias.ctp:50;75;91
+#: View/Pages/reciclagem_plastico.ctp:5;39;54;69
+msgid "Linha de Reciclagem de Plástico"
+msgstr "Plastic Recycling Line"
+
+#: View/Layouts/default.ctp:51
+msgid "Linha de Oxigénio"
+msgstr "Oxygen Line"
+
+#: View/Layouts/default.ctp:57;76
+msgid "Responsabilidade Social"
+msgstr "Social Responsibility"
+
+#: View/Layouts/default.ctp:60;77
+msgid "Política de Qualidade"
+msgstr "Quality Policy"
+
+#: View/Layouts/default.ctp:63;78
+msgid "Onde Estamos"
+msgstr "Location"
+
+#: View/Layouts/default.ctp:68
+msgid "Selecione a pagina"
+msgstr "Select the page"
+
+#: View/Layouts/default.ctp:74
+msgid "Linha de Reciclagem de Plásticos"
+msgstr "Plastics Recycling Line"
+
+#: View/Layouts/default.ctp:75 View/Pages/enchimento_oxigenio.ctp:5;40;50;60
+#: View/Pages/home.ctp:101;121;141
+#: View/Pages/quemsomos.ctp:80;100;120
+#: View/Pages/reciclagem_aluminio.ctp:64;79;95
+#: View/Pages/reciclagem_baterias.ctp:60;80;96
+#: View/Pages/reciclagem_plastico.ctp:59;79;94
+msgid "Linha de Enchimento de Oxigénio"
+msgstr "Oxygen Filling Line"
+
+#: View/Layouts/default.ctp:93 View/Pages/qualidade.ctp:27
+msgid "A Neuerth Angola"
+msgstr "The Neuerth Angola"
+
+#: View/Layouts/default.ctp:94
+msgid ""
+"foi criada para contribuir no desenvolvimento de hábitos de preservação do "
+"Meio Ambiente."
+msgstr ""
+"was created to contribute to the development of habits of preservation of "
+"the environment."
+
+#: View/Layouts/default.ctp:97
+msgid "Serviços"
+msgstr "Services"
+
+#: View/Layouts/default.ctp:102
+msgid "Unidade de Reciclagem."
+msgstr "Recycling Unit."
+
+#: View/Layouts/default.ctp:106
+msgid "Fale Connosco"
+msgstr "Contact Us"
+
+#: View/Layouts/default.ctp:108 View/Pages/localizacao.ctp:4
+msgid "Localização"
+msgstr "Location"
+
+#: View/Layouts/default.ctp:120
+msgid "Desenvolvido por"
+msgstr "developed by"
+
+#: View/Pages/enchimento_oxigenio.ctp:20;39;49;59
+#: View/Pages/home.ctp:100;120;140
+#: View/Pages/quemsomos.ctp:79;99;119
+#: View/Pages/reciclagem_aluminio.ctp:63;78;94
+#: View/Pages/reciclagem_baterias.ctp:59;79;95
+#: View/Pages/reciclagem_plastico.ctp:58;78;93
+msgid "Enchimento de Oxigénio"
+msgstr "Filling Oxygen"
+
+#: View/Pages/enchimento_oxigenio.ctp:21
+msgid "• O ar é comprimido pela utilização de compressor de alta pressão"
+msgstr "•The air is compressed by the use of high pressure compressor"
+
+#: View/Pages/enchimento_oxigenio.ctp:22
+msgid "• Oxigénio produzido com recurso a unidades PSA e embalado em cilindros"
+msgstr "• Oxygen produced using PSA units and packaged in cylinders"
+
+#: View/Pages/enchimento_oxigenio.ctp:28
+#: View/Pages/home.ctp:79 View/Pages/quemsomos.ctp:58
+#: View/Pages/reciclagem_aluminio.ctp:32 View/Pages/reciclagem_baterias.ctp:33
+#: View/Pages/reciclagem_plastico.ctp:32
+msgid "Nossos Serviços"
+msgstr "Our Services"
+
+#: View/Pages/enchimento_oxigenio.ctp:34;64;79
+#: View/Pages/home.ctp:85;105;125
+#: View/Pages/quemsomos.ctp:64;84;104
+#: View/Pages/reciclagem_aluminio.ctp:43;68;83
+#: View/Pages/reciclagem_baterias.ctp:22;39;54;64
+#: View/Pages/reciclagem_plastico.ctp:43;63;83
+msgid "Reciclagem de Baterias"
+msgstr "Battery Recycling"
+
+#: View/Pages/enchimento_oxigenio.ctp:44;69;84
+#: View/Pages/home.ctp:90;110;130
+#: View/Pages/quemsomos.ctp:69;89;109
+#: View/Pages/reciclagem_aluminio.ctp:22;38;48;58
+#: View/Pages/reciclagem_baterias.ctp:44;69;85
+#: View/Pages/reciclagem_plastico.ctp:48;73;88
+msgid "Reciclagem de Alumínio"
+msgstr "Aluminum Recycling"
+
+#: View/Pages/enchimento_oxigenio.ctp:54;74;89
+#: View/Pages/home.ctp:95;115;135
+#: View/Pages/quemsomos.ctp:74;94;114
+#: View/Pages/reciclagem_aluminio.ctp:53;73;89
+#: View/Pages/reciclagem_baterias.ctp:49;74;90
+#: View/Pages/reciclagem_plastico.ctp:22;38;53;68
+msgid "Reciclagem de Plástico"
+msgstr "Plastic Recycling"
+
+#: View/Pages/quemsomos.ctp:11
+msgid "A"
+msgstr "The"
+
+#: View/Pages/quemsomos.ctp:11
+#: View/Pages/social.ctp:11
+msgid "Neuerth Angola"
+msgstr "Neuerth Angola"
+
+#: View/Pages/quemsomos.ctp:12
+msgid ""
+"é uma empresa totalmente Angolana que se encontra neste momento em fase de "
+"consolidação das"
+msgstr ""
+"is a fully Angolan company that is found at this time in the consolidation "
+"phase of"
+
+#: View/Pages/quemsomos.ctp:13
+msgid "linhas de reciclagem"
+msgstr "recycling lines"
+
+#: View/Pages/quemsomos.ctp:13
+msgid "de desperdícios de alumínio, de baterias e de plásticos."
+msgstr "of aluminum waste, batteries and plastics."
+
+#: View/Pages/quemsomos.ctp:15
+msgid ""
+"Onde das quais resultam a produção de barras de alumínio, barras de chumbo e "
+"granulado de polipropileno e polietileno para\n"
+"            reutilização pela indústria nacional e internacional."
+msgstr ""
+"Where result of which the production of aluminum bars, bars and rods of and "
+"lead granules of polypropylene and polyethylene for \n"
+"              reuse by national and international industry."
+
+#: View/Pages/quemsomos.ctp:18
+msgid ""
+"A Neuerth Angola foi criada da vontade dos seus promotores de: contribuir "
+"para o desenvolvimento de hábitos de preservação \n"
+"            do Meio Ambiente e simultaneamente para a criação de postos de "
+"trabalho que garantam a dignidade dos Angolanos.."
+msgstr ""
+"The Neuerth Angola was created from the will of its promoters from: "
+"contribute to the development of habits of preserving \n"
+" of Environment and simultaneously to the creation of jobs that ensure the "
+"dignity of Angolans .."
+
+#: View/Pages/quemsomos.ctp:21
+msgid ""
+"Sabemos e reconhecemos que o sector da reciclagem está em fase embrionária "
+"no País, tendo os resíduos não tratados um significativo\n"
+"            papel poluidor com consequências pouco positivas para as "
+"gerações vindouras."
+msgstr ""
+"We know and we recognize that the recycling sector is at an embryonic stage "
+"in the country, with the untreated waste a significant \n"
+" paper polluter with little positive consequences for generations to come."
+
+#: View/Pages/quemsomos.ctp:23
+msgid ""
+"Sabemos e reconhecemos que as operacoes empresariais dedicadas a reciclagem, "
+"são investimentos de longo prazo, considerando que o processo de fomento\n"
+"            cultural de reciclagem dura pelo menos duas gerações."
+msgstr ""
+"We know and we recognize that business operations dedicated to recycling, "
+"are long-term investments, whereas the process of fostering \n"
+"              cultural recycling lasts at least two generations."
+
+#: View/Pages/quemsomos.ctp:26
+msgid "Modelo de Negócio"
+msgstr "Business Model"
+
+#: View/Pages/quemsomos.ctp:27
+msgid ""
+"O modelo de negócio da Neuerth Angola assenta na relevância do Micro Negócio "
+"como forma de partilha de riqueza e de criação de emprego.\n"
+"            O modelo de negócio garante o desenvolvimento de uma rede de "
+"pequenos negócios que servem o crescimento do tecido empresarial dedicado\n"
+"            a reciclagem, com particular enfase no Micro Negocio que "
+"constitui o principal meio de subsistencia das Familias."
+msgstr ""
+"The business model is based on relevance Neuerth Angola Micro Business as a "
+"way of sharing wealth and job creation. \n"
+"             The business model ensures the development of a network of "
+"small businesses that serve the growing entrepreneurial dedicated \n"
+"              recycling, with particular emphasis on Micro business that "
+"constitutes the principal means of livelihood of families."
+
+#: View/Pages/quemsomos.ctp:32
+msgid "Clique aqui para mais informações."
+msgstr "Click here for more information."
+
+#: View/Pages/linha_reciclagem.ctp:28
+#: View/Pages/quemsomos.ctp:37
+msgid "A Unidade de Reciclagem tem implementadas três linhas de reciclagem:"
+msgstr "The Recycling Unit has implemented three lines of recycling:"
+
+#: View/Pages/quemsomos.ctp:41
+msgid "1.Linha de Reciclagem de"
+msgstr "1.Line Recycling of"
+
+#: View/Pages/linha_reciclagem.ctp:59
+#: View/Pages/quemsomos.ctp:41
+msgid "Baterias"
+msgstr "Batteries"
+
+#: View/Pages/linha_reciclagem.ctp:33
+#: View/Pages/quemsomos.ctp:45
+msgid "2.Linha de Reciclagem de "
+msgstr "2.Line Recycling of"
+
+#: View/Pages/linha_reciclagem.ctp:33;66
+#: View/Pages/quemsomos.ctp:45
+msgid "Alumínio"
+msgstr "Aluminum"
+
+#: View/Pages/quemsomos.ctp:49
+msgid "3.Linha de Reciclagem de"
+msgstr "3.Line Recycling of"
+
+#: View/Pages/linha_reciclagem.ctp:37
+#: View/Pages/quemsomos.ctp:49
+msgid "Plástico (PP e PE)"
+msgstr "Plastic (PP and PE)"
+
+#: View/Pages/quemsomos.ctp:53
+msgid "A Unidade também possui como suporte uma unidade de "
+msgstr "The Unit also has to support a unit of"
+
+#: View/Pages/quemsomos.ctp:54
+msgid "produção de oxigénio"
+msgstr "oxygen production"
+
+#: View/Pages/linha_reciclagem.ctp:43
+#: View/Pages/quemsomos.ctp:54
+msgid "para utilizacao industrial."
+msgstr "for industrial utilization."
+
+#: View/Pages/home.ctp:13
+msgid " Conservando recursos"
+msgstr "conserving resources"
+
+#: View/Pages/home.ctp:14
+msgid "Enriquecendo Vidas Criando Valores"
+msgstr "Enriching Lives Creating Values"
+
+#: View/Pages/home.ctp:28
+msgid "Protegendo "
+msgstr "protecting"
+
+#: View/Pages/home.ctp:29
+msgid "O Meio Ambiente "
+msgstr "The Environment"
+
+#: View/Pages/home.ctp:43
+msgid " Contribuir"
+msgstr "contribute"
+
+#: View/Pages/home.ctp:44
+msgid "Para o Desenvolvimento"
+msgstr "For Development"
+
+#: View/Pages/home.ctp:63
+msgid "Equipamentos Modernos"
+msgstr "Modern Equipments"
+
+#: View/Pages/home.ctp:64
+msgid ""
+"Para maior eficiência, agilidade e segurança no fluxo dos materiais, "
+"dispomos dos mais diversos equipamentos e infra-estrutura especializadas "
+"para cada Linha de Reciclagem."
+msgstr ""
+"For greater efficiency, agility and safety for the flow of materials, we "
+"have the most diverse specialist equipment and infrastructure for each Line "
+"Recycling."
+
+#: View/Pages/home.ctp:68
+msgid "Programa de Qualidade"
+msgstr "Quality Program"
+
+#: View/Pages/home.ctp:69
+msgid ""
+"Primamos pelo Meio Ambiente, Higiene, Saude e Seguranca dos nossos "
+"colaboradores e parceiros de negocios ou da comunidade sobre o impacto das "
+"suas acções."
+msgstr ""
+"Excel for the Environment, Hygiene, Health and Safety of our employees and "
+"business partners and the community about the impact of their actions."
+
+#: View/Pages/home.ctp:73
+msgid "Contribuir para o Desenvolvimento"
+msgstr "Contribute to Development"
+
+#: View/Pages/home.ctp:74
+msgid ""
+"Contribui para diminuir a poluição do solo, água e ar. Melhora a limpeza da "
+"cidade e a qualidade de vida da população.Gera postos de trabalho que "
+"garantam a dignidade dos Angolanos."
+msgstr ""
+"Contributes to reduce the pollution of soil, water and air. Improves "
+"cleaning the city and the quality of life of population. Gives jobs that "
+"ensure the dignity of Angolans."
+
+#: View/Pages/linha_reciclagem.ctp:5
+msgid "Unidades de Reciclagens"
+msgstr "Units of Reciclagens"
+
+#: View/Pages/linha_reciclagem.ctp:37
+msgid "3.Linha de Reciclagem de "
+msgstr "3.Line Recycling of"
+
+#: View/Pages/linha_reciclagem.ctp:41
+msgid "A Unidade também possui como suporte uma unidade de produção"
+msgstr "The Unit also has to support a production unit"
+
+#: View/Pages/linha_reciclagem.ctp:42
+msgid " de oxigénio"
+msgstr "of oxygen"
+
+#: View/Pages/linha_reciclagem.ctp:48
+msgid "Unidade de Reciclagem"
+msgstr "Recycling Unit"
+
+#: View/Pages/linha_reciclagem.ctp:52
+msgid "Linha"
+msgstr "Line"
+
+#: View/Pages/linha_reciclagem.ctp:53
+msgid "Capacidade Input"
+msgstr "Input capacity"
+
+#: View/Pages/linha_reciclagem.ctp:54
+msgid "Capacidade Output"
+msgstr "Output capacity"
+
+#: View/Pages/linha_reciclagem.ctp:55
+msgid "Mercado Alvo (Pais/Cliente)"
+msgstr "Target Market (Parents/Client)"
+
+#: View/Pages/linha_reciclagem.ctp:56
+msgid "Aplicações"
+msgstr "applications"
+
+#: View/Pages/linha_reciclagem.ctp:60
+msgid "800 Ton de baterias usadas"
+msgstr "800 Ton of used batteries"
+
+#: View/Pages/linha_reciclagem.ctp:61
+msgid "400 Ton de barras de chumbo reutilizáveis (85.0 % pureza)"
+msgstr "400 Ton bar reusable lead (85.0% purity)"
+
+#: View/Pages/linha_reciclagem.ctp:62;69
+msgid "Internacional (Asia e Medio Oriente)"
+msgstr "International (Asia and Middle East)"
+
+#: View/Pages/linha_reciclagem.ctp:63
+msgid "Baterias; Material de Protecção contra Radiação"
+msgstr "Batteries; Material Radiation Protection"
+
+#: View/Pages/linha_reciclagem.ctp:67
+msgid "1200 Ton de alumínio"
+msgstr "Ton of aluminum 1200"
+
+#: View/Pages/linha_reciclagem.ctp:68
+msgid "1000 Ton de barras de alumínio reutilizáveis (98.5% pureza)"
+msgstr "1000 Ton bar reusable aluminum (98.5% purity)"
+
+#: View/Pages/linha_reciclagem.ctp:70
+msgid "Motores, Chassis, Jantes"
+msgstr "Engines, chassis, wheels"
+
+#: View/Pages/linha_reciclagem.ctp:73
+msgid "Plástico (PE, PP e HDPE)"
+msgstr "Plastics (PE, PP and HDPE)"
+
+#: View/Pages/linha_reciclagem.ctp:74
+msgid "100 Ton de plástico usado"
+msgstr "100 Tons of plastic used"
+
+#: View/Pages/linha_reciclagem.ctp:75
+msgid "100 Ton de Granulado (PP e PE)"
+msgstr "100 Tons of Grain (PP and PE)"
+
+#: View/Pages/linha_reciclagem.ctp:76;83
+msgid "Nacional"
+msgstr "National"
+
+#: View/Pages/linha_reciclagem.ctp:77
+msgid ""
+"PP -Caixas, Vasos, Bacias, Baldes, PE – Sacos, Cestos, HDPE – Cadeiras, Mesas"
+msgstr ""
+"PP-Boxes, Vases, Bowls, Buckets, PE - Bags, Baskets, HDPE - Chairs, Tables"
+
+#: View/Pages/linha_reciclagem.ctp:80
+msgid "Oxigénio Industrial"
+msgstr "Industrial oxygen"
+
+#: View/Pages/linha_reciclagem.ctp:81
+msgid "n.a."
+msgstr "n.a."
+
+#: View/Pages/linha_reciclagem.ctp:82
+msgid "5.500 cilindros"
+msgstr "5,500 cylinders"
+
+#: View/Pages/linha_reciclagem.ctp:84
+msgid "Corte de Metal"
+msgstr "Metal Cutting"
+
+#: View/Pages/localizacao.ctp:21
+msgid "• A"
+msgstr "• The"
+
+#: View/Pages/localizacao.ctp:21
+msgid "Neuerth Angola está localizada em Luanda no:"
+msgstr "Neuerth Angola in Luanda is located at:"
+
+#: View/Pages/localizacao.ctp:22
+msgid "Kilamba Kiaxi, no Sapu II,"
+msgstr "Kilamba Kiaxi in Sapu II"
+
+#: View/Pages/localizacao.ctp:22
+msgid "Área total da Fábrica 15.000 m2."
+msgstr "Total area of 15,000 m2 factory."
+
+#: View/Pages/localizacao.ctp:23
+msgid "Para mais informacoes, envie um email para : geral@neuerthangola.co.ao"
+msgstr "For more information, send an email to: geral@neuerthangola.co.ao"
+
+#: View/Pages/reciclagem_plastico.ctp:23
+msgid "• Recepção do plástico"
+msgstr "• Reception of the plastic"
+
+#: View/Pages/reciclagem_plastico.ctp:24
+msgid "• Separação por tipo (PE, PP e HDPE) e cor"
+msgstr "• Separation by type (PE, PP and HDPE) and color"
+
+#: View/Pages/reciclagem_plastico.ctp:25
+msgid "• Trituração do plástico"
+msgstr "• Trituration plastic"
+
+#: View/Pages/reciclagem_plastico.ctp:26
+msgid "• Extrusão do plástico"
+msgstr "• Plastic Extrusion"
+
+#: View/Pages/reciclagem_plastico.ctp:27
+msgid "• No final o granulado está disponível para o mercado "
+msgstr "• At the end of the granulate is available to the market"
+
+#: View/Pages/qualidade.ctp:5
+msgid "Política QAHSS"
+msgstr "QAHSS Policy"
+
+#: View/Pages/qualidade.ctp:10
+msgid "O"
+msgstr "The"
+
+#: View/Pages/qualidade.ctp:10
+msgid "programa QAHSS"
+msgstr "QAHSS program"
+
+#: View/Pages/qualidade.ctp:10
+msgid ""
+"e parte integrante dos nossos valores e da nossa missao,\n"
+"                    sendo critico para sucesso pela promocao de medidas que "
+"permitam resultados mensuraveis e assim a melhoria do proprio Programa."
+msgstr ""
+"and integral part of our values ​​and our mission, \n"
+"                      being critical to the successful promotion of measures "
+"to measurable results and thereby improving own program."
+
+#: View/Pages/qualidade.ctp:12
+msgid ""
+"Todos os colaboradores da Neuerth Angola sao responsaveis por assegurar a "
+"implementacao do QAHSS, e desta forma a protecao do ambiente e da comunidade."
+msgstr ""
+"All employees of Neuerth Angola are responsible for ensuring the "
+"implementation of QAHSS, and thus the protection of the environment and the "
+"community."
+
+#: View/Pages/qualidade.ctp:14
+msgid ""
+"O nosso Programa Qualidade, Ambiente, Higiene, Saude e Seguranca (QAHSS) "
+"visa:"
+msgstr ""
+"Our Program Quality, Environmental and Health and Safety (QAHSS) aims to:"
+
+#: View/Pages/qualidade.ctp:15
+msgid ""
+" • Reduzir as emissoes de gases, descargas e residuos assim como garantir a "
+"utilizacao de recursos de forma eficiente"
+msgstr ""
+"• Reduce greenhouse gas emissions, waste discharges and ensure the use of "
+"resources efficiently"
+
+#: View/Pages/qualidade.ctp:16
+msgid ""
+" • Ter ZERO acidentes com impacto no ambiente, na saude e na seguranca de "
+"todos os constituintes da Universal"
+msgstr ""
+"• Having ZERO accidents with impact on the environment, health and safety of "
+"all constituents of the Universal"
+
+#: View/Pages/qualidade.ctp:17
+msgid ""
+" • Contribuir para a consciencializacao ambiental, de higine, saude e "
+"seguranca dos nossos colaboradores e parceiros de negocios ou da comunidade "
+"sobre o impacto das suas accoes"
+msgstr ""
+"• Contribute to environmental awareness, hygiene, health and safety of our "
+"employees and business partners and the community about the impact of their "
+"actions"
+
+#: View/Pages/qualidade.ctp:18
+msgid ""
+" • Assegurar que os nossos produtos correspondem as especificacoes tecnicas "
+"dos nossos clientes atraves de amostragem e teste em laboratorio"
+msgstr ""
+"• Ensure that our products meet the technical specifications of our clients "
+"by sampling and laboratory testing"
+
+#: View/Pages/qualidade.ctp:19
+msgid ""
+" • Garantir a seguranca dos nossos produtos e assegurar a utilizacao dos "
+"mesmos de forma ambientalmente responsavel com um fim que assegure a "
+"integridade da Humanidade"
+msgstr ""
+"• Ensuring the safety of our products and ensure their use of "
+"environmentally responsible manner with a view to ensure the integrity of "
+"Humanity"
+
+#: View/Pages/qualidade.ctp:20
+msgid " • Envolver todos os nossos constituintes na melhoria do QAHSS"
+msgstr "• Involve all our constituents in improving QAHSS"
+
+#: View/Pages/qualidade.ctp:21
+msgid " • Comunicar os resultados do programa QAHSS"
+msgstr "• Report the results of the program QAHSS"
+
+#: View/Pages/qualidade.ctp:22
+msgid ""
+" • Garantir os objectivos do QAHSS atraves de um processo de melhoria "
+"continua “KAIZEN”"
+msgstr ""
+"• Ensure the objectives of QAHSS through a process of continuous improvement "
+"\"Kaizen\""
+
+#: View/Pages/qualidade.ctp:27
+msgid "Lda esta empenhada no programa de:"
+msgstr "Ltd engaged in this program:"
+
+#: View/Pages/qualidade.ctp:28
+msgid "• Qualidade"
+msgstr "• Quality"
+
+#: View/Pages/qualidade.ctp:29
+msgid "• Ambiente"
+msgstr "• Environment"
+
+#: View/Pages/qualidade.ctp:30
+msgid "• Higiene"
+msgstr "• Hygiene"
+
+#: View/Pages/qualidade.ctp:31
+msgid "• Saude"
+msgstr "• Health"
+
+#: View/Pages/qualidade.ctp:32
+msgid "• Seguranca"
+msgstr "• Security"
+
+#: View/Pages/qualidade.ctp:33
+msgid "• (QAHSS)"
+msgstr "• (QAHSS)"
+
+#: View/Pages/qualidade.ctp:34
+msgid "E afirmar-se como uma referencia neste dominio."
+msgstr "And to assert itself as a reference in this field."
+
+#: View/Pages/qualidade.ctp:36
+#: View/Pages/responsibility.ctp:50 View/Pages/social.ctp:50
+msgid "Contribuir para o Denvolvimento"
+msgstr "Contribute to Development"
+
+#: View/Pages/qualidade.ctp:37
+msgid ""
+"Contribui para diminuir a poluição do solo, água e ar. Melhora a limpeza da "
+"cidade e a qualidade de vida da população. Gera postos de trabalho que "
+"garantam a dignidade dos Angolanos."
+msgstr ""
+"Contributes to reduce the pollution of soil, water and air. Improves "
+"cleaning the city and the quality of life. Generates jobs that ensure the "
+"dignity of Angolans."
+
+#: View/Pages/reciclagem_aluminio.ctp:23
+msgid "• Recepção e segregação do alumínio por especificação técnica"
+msgstr "• Reception and segregation of aluminum per technical specification"
+
+#: View/Pages/reciclagem_aluminio.ctp:24
+msgid "• Compressao do alumínio em formatos normalizados"
+msgstr "• Compression of aluminum in standard formats"
+
+#: View/Pages/reciclagem_aluminio.ctp:25
+msgid "• Dois fornos de fundição"
+msgstr "• Two smelting furnaces"
+
+#: View/Pages/reciclagem_aluminio.ctp:26 View/Pages/reciclagem_baterias.ctp:26
+msgid "• Os fornos são alimentados a óleo usado e assim reutilizado"
+msgstr "• The furnaces are fueled with oil and thus reused"
+
+#: View/Pages/reciclagem_aluminio.ctp:27
+msgid "• No final as barras de alumínio estão disponíveis para reutlização"
+msgstr "• At the end of the aluminum bars are available for reuse"
+
+#: View/Pages/reciclagem_baterias.ctp:23
+msgid "• Recepção e separação"
+msgstr "• Reception and separation"
+
+#: View/Pages/reciclagem_baterias.ctp:24
+msgid "• Corte das baterias e trituração nos 6 equipamentos disponíveis"
+msgstr "• Cut the batteries and grinding equipment available in 6"
+
+#: View/Pages/reciclagem_baterias.ctp:25
+msgid "• Dois fornos rotativos"
+msgstr "• Two rotary kilns"
+
+#: View/Pages/reciclagem_baterias.ctp:27
+msgid "• No final as barras de chumbo estão disponíveis para reutlização"
+msgstr "• At the end of the lead bars are available for reuse"
+
+#: View/Pages/reciclagem_baterias.ctp:28
+msgid ""
+"• O plastico resultante das baterias e tratado no processo descrito na "
+"Reciclagem de Plastico."
+msgstr ""
+"• The resulting plastic batteries and treated in the process described in "
+"Plastic Recycling."
+
+#: View/Pages/social.ctp:6
+msgid " Responsabilidade Social"
+msgstr " Social responsibility"
+
+#: View/Pages/social.ctp:10
+msgid ""
+" Ao estar inserida numa área populacional crescente,  envolvimento com a "
+"comunidade ganha especial importância, a "
+msgstr ""
+"To be inserted in a growing population area, community involvement takes on "
+"special importance,"
+
+#: View/Pages/social.ctp:11
+msgid "não fica de fora."
+msgstr "not left out."
+
+#: View/Pages/social.ctp:13
+msgid ""
+"Alem do suporte periódico que a empresa oferece a Comissão de Moradores "
+"local, outras actividades esporádicas tem sido realizadas. "
+msgstr ""
+"In addition to the regular support that the company offers Local Residents "
+"Committee, other sporadic activities have been carried out."
+
+#: View/Pages/social.ctp:16
+msgid ""
+"A mais recente actividade consistiu no envolvimento com a Comissão de "
+"Moradores Bita Sapu e com a Escola Primaria 2051 (ex 9048 Bita Sapu)\n"
+"                para a atribuição de 150 kits escolares aos alunos da 1º "
+"classe do ano lectivo 2014. Os Kits escolares são compostos por:"
+msgstr ""
+"The most recent activity was the involvement with the Residents Committee "
+"Bita Sapu and the Primary School 2051 (ex 9048 Bita Sapu) \n"
+"                  . assignment for the 150 school kits to students from 1st "
+"class of the academic year 2014 School Kits consist of:"
+
+#: View/Pages/social.ctp:18
+msgid " • Mochila"
+msgstr "Backpack"
+
+#: View/Pages/social.ctp:19
+msgid " • Boné"
+msgstr "Cap"
+
+#: View/Pages/social.ctp:20
+msgid " • T-Shirt"
+msgstr " • T-Shirt"
+
+#: View/Pages/social.ctp:21
+msgid " • Caderno de 200 paginas de linhas"
+msgstr "• Notebook contains 200 lines"
+
+#: View/Pages/social.ctp:22
+msgid " • Caderno de 200 paginas quadriculado"
+msgstr "• Notebook 200 grid pages"
+
+#: View/Pages/social.ctp:23
+msgid " • Jogo de Canetas – Azul, Preto e Vermelho"
+msgstr "• Set of Pens - Blue, Black and Red"
+
+#: View/Pages/social.ctp:24
+msgid " • Jogo e Lápis de Cor"
+msgstr "• Match and Color Pencil"
+
+#: View/Pages/social.ctp:25
+msgid " • Lápis de Carvão"
+msgstr "• Charcoal Pencil"
+
+#: View/Pages/social.ctp:26
+msgid " • Borracha"
+msgstr "• Eraser"
+
+#: View/Pages/social.ctp:27
+msgid " • Afia-lápis"
+msgstr "• Pencil Sharpener"
+
+#: View/Pages/social.ctp:30
+msgid ""
+" A entrega dos kits escolares aos futuros Homens e Mulheres teve lugar na "
+"Comissão de Moradores Bita Sapu e na Escola Primaria 2051 na presença\n"
+"                do Presidente da Comissão de Moradores e da Direção da "
+"Escola."
+msgstr ""
+"The delivery of school kits to future Men and Women took place in the "
+"Committee of Residents and Bita Sapu Primary School in 2051 in the "
+"presence \n"
+"                  the President of the Commission Residents and the "
+"direction of the School."
+
+#: View/Pages/social.ctp:34
+msgid ""
+" A Neuerth Angola fica feliz por contribuir também desta forma para o futuro "
+"da Nação Angolana."
+msgstr ""
+"The Neuerth Angola is also happy to contribute in this way to the future of "
+"the Angolan nation."
+
+#: View/Pages/social.ctp:39
+msgid "  A "
+msgstr " The"
+
+#: View/Pages/social.ctp:39
+msgid " Neuerth Angola"
+msgstr " Neuerth Angola"
+
+#: View/Pages/social.ctp:40
+msgid ""
+" ira continuar a colaborar com a comunidade, potenciando o desenvolvimento "
+"de valores que \n"
+"            contribuam para uma sociedade cada vez melhor para as gerações "
+"vindouras e para uma"
+msgstr ""
+"will continue to collaborate with the community, enhancing the development "
+"of values \n"
+"             contribute to a society increasingly better for generations to "
+"come and for a"
+
+#: View/Pages/social.ctp:41
+msgid " Angola forte"
+msgstr "strong Angola"
+
+#: View/Pages/social.ctp:42
+msgid "no cenário Africano e Mundial."
+msgstr "in African and World scenario."
+
+#: View/Pages/social.ctp:45
+msgid " Programa de Qualidade"
+msgstr "Quality Program"
+
+#: View/Pages/social.ctp:46
+msgid ""
+"Primamos pelo Meio Ambiente, Higiene, Saúde e Segurança dos nossos "
+"colaboradores e parceiros de negocios\n"
+"                ou da comunidade sobre o impacto das suas acções."
+msgstr ""
+"Cherish for the Environment, and Health and Safety of our employees and "
+"business partners \n"
+" or the community about the impact of their actions."
+
+#: View/Pages/social.ctp:51
+msgid ""
+"Contribui para diminuir a poluição do solo, água e ar. Melhora a limpeza da "
+"cidade e a qualidade de vida da população.\n"
+"                Gera postos de trabalho que garantam a dignidade dos "
+"Angolanos."
+msgstr ""
+"Contributes to reduce the pollution of soil, water and air. Improves "
+"cleaning the city and the quality of life. \n"
+"                 Generates jobs that ensure the dignity of Angolans."
+

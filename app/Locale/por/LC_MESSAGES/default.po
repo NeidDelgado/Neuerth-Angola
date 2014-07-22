@@ -1,0 +1,871 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-07-07 06:55+0100\n"
+"PO-Revision-Date: 2014-07-08 11:28+0100\n"
+"Last-Translator: Neide Delgado <neide.delgado@itelnet.co.ao>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: en_US\n"
+
+
+#: View/Layouts/default.ctp:17
+msgid "/quemsomos"
+msgstr "quemsomos"
+
+#: View/Layouts/default.ctp:32;69 View/Layouts/default_home.ctp:32;69
+msgid "Home"
+msgstr "Home"
+
+#: View/Layouts/default.ctp:35;70
+#: View/Pages/quemsomos.ctp:6
+msgid "Quem Somos"
+msgstr "Quem Somos"
+
+#: View/Layouts/default.ctp:38;71 
+#: View/Pages/linha_reciclagem.ctp:27 View/Pages/quemsomos.ctp:36
+msgid "Linhas de Reciclagem"
+msgstr "Linhas de Reciclagem"
+
+#: View/Layouts/default.ctp:42;72 View/Pages/enchimento_oxigenio.ctp:35;65;80
+#: View/Pages/home.ctp:86;106;126
+#: View/Pages/quemsomos.ctp:65;85;105
+#: View/Pages/reciclagem_aluminio.ctp:44;69;84
+#: View/Pages/reciclagem_baterias.ctp:5;40;55;65
+#: View/Pages/reciclagem_plastico.ctp:44;64;84
+msgid "Linha de Reciclagem de Baterias"
+msgstr "Linha de Reciclagem de Baterias"
+
+#: View/Layouts/default.ctp:45;73 View/Pages/enchimento_oxigenio.ctp:45;70;85
+#: View/Pages/home.ctp:91;111;131
+#: View/Pages/quemsomos.ctp:70;90;110
+#: View/Pages/reciclagem_aluminio.ctp:5;39;49;59
+#: View/Pages/reciclagem_baterias.ctp:45;70;86
+#: View/Pages/reciclagem_plastico.ctp:49;74;89
+msgid "Linha de Reciclagem de Alumínio"
+msgstr "Linha de Reciclagem de Alumínio"
+
+#: View/Layouts/default.ctp:48 View/Pages/enchimento_oxigenio.ctp:55;75;90
+#: View/Pages/home.ctp:96;116;136
+#: View/Pages/quemsomos.ctp:75;95;115
+#: View/Pages/reciclagem_aluminio.ctp:54;74;90
+#: View/Pages/reciclagem_baterias.ctp:50;75;91
+#: View/Pages/reciclagem_plastico.ctp:5;39;54;69
+msgid "Linha de Reciclagem de Plástico"
+msgstr "Linha de Reciclagem de Plástico"
+
+#: View/Layouts/default.ctp:51
+msgid "Linha de Oxigénio"
+msgstr "Linha de Oxigénio"
+
+#: View/Layouts/default.ctp:57;76
+msgid "Responsabilidade Social"
+msgstr "Responsabilidade Social"
+
+#: View/Layouts/default.ctp:60;77
+msgid "Política de Qualidade"
+msgstr "Política de Qualidade"
+
+#: View/Layouts/default.ctp:63;78
+msgid "Onde Estamos"
+msgstr "Onde Estamos"
+
+#: View/Layouts/default.ctp:68
+msgid "Selecione a pagina"
+msgstr "Selecione a pagina"
+
+#: View/Layouts/default.ctp:74
+msgid "Linha de Reciclagem de Plásticos"
+msgstr "Linha de Reciclagem de Plásticos"
+
+#: View/Layouts/default.ctp:75 View/Pages/enchimento_oxigenio.ctp:5;40;50;60
+#: View/Pages/home.ctp:101;121;141
+#: View/Pages/quemsomos.ctp:80;100;120
+#: View/Pages/reciclagem_aluminio.ctp:64;79;95
+#: View/Pages/reciclagem_baterias.ctp:60;80;96
+#: View/Pages/reciclagem_plastico.ctp:59;79;94
+msgid "Linha de Enchimento de Oxigénio"
+msgstr "Linha de Enchimento de Oxigénio"
+
+#: View/Layouts/default.ctp:93 View/Pages/qualidade.ctp:27
+#: View/Pages/quality.ctp:27
+msgid "A Neuerth Angola"
+msgstr "A Neuerth Angola"
+
+#: View/Layouts/default.ctp:94
+msgid ""
+"foi criada para contribuir no desenvolvimento de hábitos de preservação do "
+"Meio Ambiente."
+msgstr ""
+"foi criada para contribuir no desenvolvimento de hábitos de preservação do "
+"Meio Ambiente."
+
+#: View/Layouts/default.ctp:97
+msgid "Serviços"
+msgstr "Serviços"
+
+#: View/Layouts/default.ctp:102
+msgid "Unidade de Reciclagem."
+msgstr "Unidade de Reciclagem."
+
+#: View/Layouts/default.ctp:106
+msgid "Fale Connosco"
+msgstr "Fale Connosco"
+
+#: View/Layouts/default.ctp:108 View/Pages/localizacao.ctp:4
+msgid "Localização"
+msgstr "Localização"
+
+#: View/Layouts/default.ctp:120
+msgid "Desenvolvido por"
+msgstr "Desenvolvido por"
+
+#: View/Pages/enchimento_oxigenio.ctp:20;39;49;59 View/Pages/home.ctp:100;120;140
+#: View/Pages/quemsomos.ctp:79;99;119
+#: View/Pages/reciclagem_aluminio.ctp:63;78;94
+#: View/Pages/reciclagem_baterias.ctp:59;79;95
+#: View/Pages/reciclagem_plastico.ctp:58;78;93
+msgid "Enchimento de Oxigénio"
+msgstr "Enchimento de Oxigénio"
+
+#: View/Pages/enchimento_oxigenio.ctp:21
+msgid "• O ar é comprimido pela utilização de compressor de alta pressão"
+msgstr "• O ar é comprimido pela utilização de compressor de alta pressão"
+
+#: View/Pages/enchimento_oxigenio.ctp:22
+msgid "• Oxigénio produzido com recurso a unidades PSA e embalado em cilindros"
+msgstr "• Oxigénio produzido com recurso a unidades PSA e embalado em cilindros"
+
+#: View/Pages/enchimento_oxigenio.ctp:28
+#: View/Pages/home.ctp:79
+#: View/Pages/quemsomos.ctp:58
+#: View/Pages/reciclagem_aluminio.ctp:32 View/Pages/reciclagem_baterias.ctp:33
+#: View/Pages/reciclagem_plastico.ctp:32
+msgid "Nossos Serviços"
+msgstr "Nossos Serviços"
+
+#: View/Pages/enchimento_oxigenio.ctp:34;64;79
+#: View/Pages/home.ctp:85;105;125
+#: View/Pages/quemsomos.ctp:64;84;104
+#: View/Pages/reciclagem_aluminio.ctp:43;68;83
+#: View/Pages/reciclagem_baterias.ctp:22;39;54;64
+#: View/Pages/reciclagem_plastico.ctp:43;63;83
+msgid "Reciclagem de Baterias"
+msgstr "Reciclagem de Baterias"
+
+#: View/Pages/enchimento_oxigenio.ctp:44;69;84
+#: View/Pages/home.ctp:90;110;130
+#: View/Pages/quemsomos.ctp:69;89;109
+#: View/Pages/reciclagem_aluminio.ctp:22;38;48;58
+#: View/Pages/reciclagem_baterias.ctp:44;69;85
+#: View/Pages/reciclagem_plastico.ctp:48;73;88
+msgid "Reciclagem de Alumínio"
+msgstr "Reciclagem de Alumínio"
+
+#: View/Pages/enchimento_oxigenio.ctp:54;74;89
+#: View/Pages/home.ctp:95;115;135
+#: View/Pages/quemsomos.ctp:74;94;114
+#: View/Pages/reciclagem_aluminio.ctp:53;73;89
+#: View/Pages/reciclagem_baterias.ctp:49;74;90
+#: View/Pages/reciclagem_plastico.ctp:22;38;53;68
+msgid "Reciclagem de Plástico"
+msgstr "Reciclagem de Plástico"
+
+#: View/Pages/quemsomos.ctp:11
+msgid "A"
+msgstr "A"
+
+#: View/Pages/quemsomos.ctp:11
+#: View/Pages/social.ctp:11
+msgid "Neuerth Angola"
+msgstr "Neuerth Angola"
+
+#: View/Pages/quemsomos.ctp:12
+msgid ""
+"é uma empresa totalmente Angolana que se encontra neste momento em fase de "
+"consolidação das"
+msgstr ""
+"é uma empresa totalmente Angolana que se encontra neste momento em fase de "
+"consolidação das"
+
+#: View/Pages/quemsomos.ctp:13
+msgid "linhas de reciclagem"
+msgstr "linhas de reciclagem"
+
+#: View/Pages/quemsomos.ctp:13
+msgid "de desperdícios de alumínio, de baterias e de plásticos."
+msgstr "de desperdícios de alumínio, de baterias e de plásticos."
+
+#: View/Pages/quemsomos.ctp:15
+msgid ""
+"Onde das quais resultam a produção de barras de alumínio, barras de chumbo e "
+"granulado de polipropileno e polietileno para\n"
+"            reutilização pela indústria nacional e internacional."
+msgstr ""
+"Onde das quais resultam a produção de barras de alumínio, barras de chumbo e "
+"granulado de polipropileno e polietileno para\n"
+"            reutilização pela indústria nacional e internacional."
+
+#: View/Pages/quemsomos.ctp:18
+msgid ""
+"A Neuerth Angola foi criada da vontade dos seus promotores de: contribuir "
+"para o desenvolvimento de hábitos de preservação \n"
+"            do Meio Ambiente e simultaneamente para a criação de postos de "
+"trabalho que garantam a dignidade dos Angolanos.."
+msgstr ""
+"A Neuerth Angola foi criada da vontade dos seus promotores de: contribuir "
+"para o desenvolvimento de hábitos de preservação \n"
+"            do Meio Ambiente e simultaneamente para a criação de postos de "
+"trabalho que garantam a dignidade dos Angolanos.."
+
+#: View/Pages/quemsomos.ctp:21
+msgid ""
+"Sabemos e reconhecemos que o sector da reciclagem está em fase embrionária "
+"no País, tendo os resíduos não tratados um significativo\n"
+"            papel poluidor com consequências pouco positivas para as "
+"gerações vindouras."
+msgstr ""
+"Sabemos e reconhecemos que o sector da reciclagem está em fase embrionária "
+"no País, tendo os resíduos não tratados um significativo\n"
+"            papel poluidor com consequências pouco positivas para as "
+"gerações vindouras."
+
+#: View/Pages/quemsomos.ctp:23
+msgid ""
+"Sabemos e reconhecemos que as operacoes empresariais dedicadas a reciclagem, "
+"são investimentos de longo prazo, considerando que o processo de fomento\n"
+"            cultural de reciclagem dura pelo menos duas gerações."
+msgstr ""
+"Sabemos e reconhecemos que as operacoes empresariais dedicadas a reciclagem, "
+"são investimentos de longo prazo, considerando que o processo de fomento\n"
+"            cultural de reciclagem dura pelo menos duas gerações."
+
+#: View/Pages/quemsomos.ctp:26
+msgid "Modelo de Negócio"
+msgstr "Modelo de Negócio"
+
+#: View/Pages/quemsomos.ctp:27
+msgid ""
+"O modelo de negócio da Neuerth Angola assenta na relevância do Micro Negócio "
+"como forma de partilha de riqueza e de criação de emprego.\n"
+"            O modelo de negócio garante o desenvolvimento de uma rede de "
+"pequenos negócios que servem o crescimento do tecido empresarial dedicado\n"
+"            a reciclagem, com particular enfase no Micro Negocio que "
+"constitui o principal meio de subsistencia das Familias."
+msgstr ""
+"O modelo de negócio da Neuerth Angola assenta na relevância do Micro Negócio "
+"como forma de partilha de riqueza e de criação de emprego.\n"
+"            O modelo de negócio garante o desenvolvimento de uma rede de "
+"pequenos negócios que servem o crescimento do tecido empresarial dedicado\n"
+"            a reciclagem, com particular enfase no Micro Negocio que "
+"constitui o principal meio de subsistencia das Familias."
+
+#: View/Pages/quemsomos.ctp:32
+msgid "Clique aqui para mais informações."
+msgstr "Clique aqui para mais informações."
+
+#: View/Pages/linha_reciclagem.ctp:28
+#: View/Pages/quemsomos.ctp:37
+msgid "A Unidade de Reciclagem tem implementadas três linhas de reciclagem:"
+msgstr "A Unidade de Reciclagem tem implementadas três linhas de reciclagem:"
+
+#: View/Pages/quemsomos.ctp:41
+msgid "1.Linha de Reciclagem de "
+msgstr "1.Linha de Reciclagem de"
+
+#: View/Pages/linha_reciclagem.ctp:59
+#: View/Pages/quemsomos.ctp:41
+msgid "Baterias"
+msgstr "Baterias"
+
+#: View/Pages/linha_reciclagem.ctp:33
+#: View/Pages/quemsomos.ctp:45
+msgid "2.Linha de Reciclagem de "
+msgstr "2.Linha de Reciclagem de "
+
+#: View/Pages/linha_reciclagem.ctp:33;66
+#: View/Pages/quemsomos.ctp:45
+msgid "Alumínio"
+msgstr "Alumínio"
+
+#: View/Pages/quemsomos.ctp:49
+msgid "3.Linha de Reciclagem de "
+msgstr "3.Linha de Reciclagem de "
+
+#: View/Pages/linha_reciclagem.ctp:37
+#: View/Pages/quemsomos.ctp:49
+msgid "Plástico (PP e PE)"
+msgstr "Plástico (PP e PE)"
+
+#: View/Pages/quemsomos.ctp:53
+msgid "A Unidade também possui como suporte uma unidade de "
+msgstr "A Unidade também possui como suporte uma unidade de "
+
+#: View/Pages/quemsomos.ctp:54
+msgid "produção de oxigénio"
+msgstr "produção de oxigénio"
+
+#: View/Pages/linha_reciclagem.ctp:43
+#: View/Pages/quemsomos.ctp:54
+msgid "para utilizacao industrial."
+msgstr "para utilizacao industrial."
+
+#: View/Pages/home.ctp:13
+msgid " Conservando recursos"
+msgstr " Conservando recursos"
+
+#: View/Pages/home.ctp:14
+msgid "Enriquecendo Vidas Criando Valores"
+msgstr "Enriquecendo Vidas Criando Valores"
+
+#: View/Pages/home.ctp:28
+msgid "Protegendo "
+msgstr "Protegendo "
+
+#: View/Pages/home.ctp:29
+msgid "O Meio Ambiente "
+msgstr "O Meio Ambiente "
+
+#: View/Pages/home.ctp:43
+msgid " Contribuir"
+msgstr " Contribuir"
+
+#: View/Pages/home.ctp:44
+msgid "Para o Desenvolvimento"
+msgstr "Para o Desenvolvimento"
+
+#: View/Pages/home.ctp:63
+msgid "Equipamentos Modernos"
+msgstr "Equipamentos Modernos"
+
+#: View/Pages/home.ctp:64
+msgid ""
+"Para maior eficiência, agilidade e segurança no fluxo dos materiais, "
+"dispomos dos mais diversos equipamentos e infra-estrutura especializadas "
+"para cada Linha de Reciclagem."
+msgstr ""
+"Para maior eficiência, agilidade e segurança no fluxo dos materiais, "
+"dispomos dos mais diversos equipamentos e infra-estrutura especializadas "
+"para cada Linha de Reciclagem."
+
+#: View/Pages/home.ctp:68
+msgid "Programa de Qualidade"
+msgstr "Programa de Qualidade"
+
+#: View/Pages/home.ctp:69
+msgid ""
+"Primamos pelo Meio Ambiente, Higiene, Saude e Seguranca dos nossos "
+"colaboradores e parceiros de negocios ou da comunidade sobre o impacto das "
+"suas acções."
+msgstr ""
+"Primamos pelo Meio Ambiente, Higiene, Saude e Seguranca dos nossos "
+"colaboradores e parceiros de negocios ou da comunidade sobre o impacto das "
+"suas acções."
+
+#: View/Pages/home.ctp:73
+msgid "Contribuir para o Desenvolvimento"
+msgstr "Contribuir para o Desenvolvimento"
+
+#: View/Pages/home.ctp:74
+msgid ""
+"Contribui para diminuir a poluição do solo, água e ar. Melhora a limpeza da "
+"cidade e a qualidade de vida da população.Gera postos de trabalho que "
+"garantam a dignidade dos Angolanos."
+msgstr ""
+"Contribui para diminuir a poluição do solo, água e ar. Melhora a limpeza da "
+"cidade e a qualidade de vida da população.Gera postos de trabalho que "
+"garantam a dignidade dos Angolanos."
+
+#: View/Pages/linha_reciclagem.ctp:5
+msgid "Unidades de Reciclagens"
+msgstr "Unidades de Reciclagens"
+
+#: View/Pages/linha_reciclagem.ctp:37
+msgid "3.Linha de Reciclagem de "
+msgstr "3.Linha de Reciclagem de "
+
+#: View/Pages/linha_reciclagem.ctp:41
+msgid "A Unidade também possui como suporte uma unidade de produção"
+msgstr "A Unidade também possui como suporte uma unidade de produção"
+
+#: View/Pages/linha_reciclagem.ctp:42
+msgid " de oxigénio"
+msgstr " de oxigénio"
+
+#: View/Pages/linha_reciclagem.ctp:48
+msgid "Unidade de Reciclagem"
+msgstr "Unidade de Reciclagem"	
+
+#: View/Pages/linha_reciclagem.ctp:52
+msgid "Linha"
+msgstr "Linha"
+
+#: View/Pages/linha_reciclagem.ctp:53
+msgid "Capacidade Input"
+msgstr "Capacidade Input"
+
+#: View/Pages/linha_reciclagem.ctp:54
+msgid "Capacidade Output"
+msgstr "Capacidade Output"
+
+#: View/Pages/linha_reciclagem.ctp:55
+msgid "Mercado Alvo (Pais/Cliente)"
+msgstr "Mercado Alvo (Pais/Cliente)"
+
+#: View/Pages/linha_reciclagem.ctp:56
+msgid "Aplicações"
+msgstr "Aplicações"
+
+#: View/Pages/linha_reciclagem.ctp:60
+msgid "800 Ton de baterias usadas"
+msgstr "800 Ton de baterias usadas"
+
+#: View/Pages/linha_reciclagem.ctp:61
+msgid "400 Ton de barras de chumbo reutilizáveis (85.0 % pureza)"
+msgstr "400 Ton de barras de chumbo reutilizáveis (85.0 % pureza)"
+
+#: View/Pages/linha_reciclagem.ctp:62;69
+msgid "Internacional (Asia e Medio Oriente)"
+msgstr "Internacional (Asia e Medio Oriente)"
+
+#: View/Pages/linha_reciclagem.ctp:63
+msgid "Baterias; Material de Protecção contra Radiação"
+msgstr "Baterias; Material de Protecção contra Radiação"
+
+#: View/Pages/linha_reciclagem.ctp:67
+msgid "1200 Ton de alumínio"
+msgstr "1200 Ton de alumínio"
+
+#: View/Pages/linha_reciclagem.ctp:68
+msgid "1000 Ton de barras de alumínio reutilizáveis (98.5% pureza)"
+msgstr "1000 Ton de barras de alumínio reutilizáveis (98.5% pureza)"
+
+#: View/Pages/linha_reciclagem.ctp:70
+msgid "Motores, Chassis, Jantes"
+msgstr "Motores, Chassis, Jantes"
+
+#: View/Pages/linha_reciclagem.ctp:73
+msgid "Plástico (PE, PP e HDPE)"
+msgstr "Plástico (PE, PP e HDPE)"
+
+#: View/Pages/linha_reciclagem.ctp:74
+msgid "100 Ton de plástico usado"
+msgstr "100 Ton de plástico usado"
+
+#: View/Pages/linha_reciclagem.ctp:75
+msgid "100 Ton de Granulado (PP e PE)"
+msgstr "100 Ton de Granulado (PP e PE)"
+
+#: View/Pages/linha_reciclagem.ctp:76;83
+msgid "Nacional"
+msgstr "Nacional"
+
+#: View/Pages/linha_reciclagem.ctp:77
+msgid ""
+"PP -Caixas, Vasos, Bacias, Baldes, PE – Sacos, Cestos, HDPE – Cadeiras, Mesas"
+msgstr ""
+"PP -Caixas, Vasos, Bacias, Baldes, PE – Sacos, Cestos, HDPE – Cadeiras, Mesas"
+
+#: View/Pages/linha_reciclagem.ctp:80
+msgid "Oxigénio Industrial"
+msgstr "Oxigénio Industrial"
+
+#: View/Pages/linha_reciclagem.ctp:81
+msgid "n.a."
+msgstr "n.a."
+
+#: View/Pages/linha_reciclagem.ctp:82
+msgid "5.500 cilindros"
+msgstr "5.500 cilindros"
+
+#: View/Pages/linha_reciclagem.ctp:84
+msgid "Corte de Metal"
+msgstr "Corte de Metal"
+
+#: View/Pages/localizacao.ctp:21
+msgid "• A"
+msgstr "• A"
+
+#: View/Pages/localizacao.ctp:21
+msgid "Neuerth Angola está localizada em Luanda no:"
+msgstr "Neuerth Angola está localizada em Luanda no:"
+
+#: View/Pages/localizacao.ctp:22
+msgid "Kilamba Kiaxi, no Sapu II,"
+msgstr "Kilamba Kiaxi, no Sapu II,"
+
+#: View/Pages/localizacao.ctp:22
+msgid "Área total da Fábrica 15.000 m2."
+msgstr "Área total da Fábrica 15.000 m2."
+
+#: View/Pages/localizacao.ctp:23
+msgid "Para mais informacoes, envie um email para : geral@neuerthangola.co.ao"
+msgstr "Para mais informacoes, envie um email para : geral@neuerthangola.co.ao"
+
+#: View/Pages/reciclagem_plastico.ctp:23
+msgid "• Recepção do plástico"
+msgstr "• Recepção do plástico"
+
+#: View/Pages/reciclagem_plastico.ctp:24
+msgid "• Separação por tipo (PE, PP e HDPE) e cor"
+msgstr "• Separação por tipo (PE, PP e HDPE) e cor"
+
+#: View/Pages/reciclagem_plastico.ctp:25
+msgid "• Trituração do plástico"
+msgstr "• Trituração do plástico"
+
+#: View/Pages/reciclagem_plastico.ctp:26
+msgid "• Extrusão do plástico"
+msgstr "• Extrusão do plástico"
+
+#: View/Pages/reciclagem_plastico.ctp:27
+msgid "• No final o granulado está disponível para o mercado "
+msgstr "• No final o granulado está disponível para o mercado "
+
+#: View/Pages/qualidade.ctp:5
+msgid "Política QAHSS"
+msgstr "Política QAHSS"
+
+#: View/Pages/qualidade.ctp:10
+msgid "O "
+msgstr "O "
+
+#: View/Pages/qualidade.ctp:10
+msgid "programa QAHSS"
+msgstr "programa QAHSS"
+
+#: View/Pages/qualidade.ctp:10
+msgid ""
+"e parte integrante dos nossos valores e da nossa missao,\n"
+"                    sendo critico para sucesso pela promocao de medidas que "
+"permitam resultados mensuraveis e assim a melhoria do proprio Programa."
+msgstr ""
+"e parte integrante dos nossos valores e da nossa missao,\n"
+"                    sendo critico para sucesso pela promocao de medidas que "
+"permitam resultados mensuraveis e assim a melhoria do proprio Programa."
+
+#: View/Pages/qualidade.ctp:12
+msgid ""
+"Todos os colaboradores da Neuerth Angola sao responsaveis por assegurar a "
+"implementacao do QAHSS, e desta forma a protecao do ambiente e da comunidade."
+msgstr ""
+"Todos os colaboradores da Neuerth Angola sao responsaveis por assegurar a "
+"implementacao do QAHSS, e desta forma a protecao do ambiente e da comunidade."
+
+#: View/Pages/qualidade.ctp:14
+msgid ""
+"O nosso Programa Qualidade, Ambiente, Higiene, Saude e Seguranca (QAHSS) "
+"visa: "
+msgstr ""
+"O nosso Programa Qualidade, Ambiente, Higiene, Saude e Seguranca (QAHSS) "
+"visa: "
+
+#: View/Pages/qualidade.ctp:15
+msgid ""
+" • Reduzir as emissoes de gases, descargas e residuos assim como garantir a "
+"utilizacao de recursos de forma eficiente"
+msgstr ""
+" • Reduzir as emissoes de gases, descargas e residuos assim como garantir a "
+"utilizacao de recursos de forma eficiente"
+
+#: View/Pages/qualidade.ctp:16
+msgid ""
+" • Ter ZERO acidentes com impacto no ambiente, na saude e na seguranca de "
+"todos os constituintes da Universal"
+msgstr ""
+" • Ter ZERO acidentes com impacto no ambiente, na saude e na seguranca de "
+"todos os constituintes da Universal"
+
+#: View/Pages/qualidade.ctp:17
+msgid ""
+" • Contribuir para a consciencializacao ambiental, de higine, saude e "
+"seguranca dos nossos colaboradores e parceiros de negocios ou da comunidade "
+"sobre o impacto das suas accoes"
+msgstr ""
+" • Contribuir para a consciencializacao ambiental, de higine, saude e "
+"seguranca dos nossos colaboradores e parceiros de negocios ou da comunidade "
+"sobre o impacto das suas accoes"
+
+#: View/Pages/qualidade.ctp:18
+msgid ""
+" • Assegurar que os nossos produtos correspondem as especificacoes tecnicas "
+"dos nossos clientes atraves de amostragem e teste em laboratorio"
+msgstr ""
+" • Assegurar que os nossos produtos correspondem as especificacoes tecnicas "
+"dos nossos clientes atraves de amostragem e teste em laboratorio"
+
+#: View/Pages/qualidade.ctp:19
+msgid ""
+" • Garantir a seguranca dos nossos produtos e assegurar a utilizacao dos "
+"mesmos de forma ambientalmente responsavel com um fim que assegure a "
+"integridade da Humanidade"
+msgstr ""
+" • Garantir a seguranca dos nossos produtos e assegurar a utilizacao dos "
+"mesmos de forma ambientalmente responsavel com um fim que assegure a "
+"integridade da Humanidade"
+
+#: View/Pages/qualidade.ctp:20
+msgid " • Envolver todos os nossos constituintes na melhoria do QAHSS"
+msgstr " • Envolver todos os nossos constituintes na melhoria do QAHSS"
+
+#: View/Pages/qualidade.ctp:21
+msgid " • Comunicar os resultados do programa QAHSS"
+msgstr " • Comunicar os resultados do programa QAHSS"
+
+#: View/Pages/qualidade.ctp:22
+msgid ""
+" • Garantir os objectivos do QAHSS atraves de um processo de melhoria "
+"continua “KAIZEN”"
+msgstr ""
+" • Garantir os objectivos do QAHSS atraves de um processo de melhoria "
+"continua “KAIZEN”"
+
+#: View/Pages/qualidade.ctp:27
+msgid "Lda esta empenhada no programa de:"
+msgstr "Lda esta empenhada no programa de:"
+
+#: View/Pages/qualidade.ctp:28
+msgid "• Qualidade"
+msgstr "• Qualidade"
+
+#: View/Pages/qualidade.ctp:29
+msgid "• Ambiente"
+msgstr "• Ambiente"
+
+#: View/Pages/qualidade.ctp:30
+msgid "• Higiene"
+msgstr "• Higiene"
+
+#: View/Pages/qualidade.ctp:31
+msgid "• Saude"
+msgstr "• Saude"
+
+#: View/Pages/qualidade.ctp:32
+msgid "• Seguranca"
+msgstr "• Seguranca"
+
+#: View/Pages/qualidade.ctp:33
+msgid "• (QAHSS)"
+msgstr "• (QAHSS)"
+
+#: View/Pages/qualidade.ctp:34
+msgid "E afirmar-se como uma referencia neste dominio."
+msgstr "E afirmar-se como uma referencia neste dominio."
+
+#: View/Pages/qualidade.ctp:36
+#: View/Pages/social.ctp:50
+msgid "Contribuir para o Denvolvimento"
+msgstr "Contribuir para o Denvolvimento"
+
+#: View/Pages/qualidade.ctp:37
+msgid ""
+"Contribui para diminuir a poluição do solo, água e ar. Melhora a limpeza da "
+"cidade e a qualidade de vida da população. Gera postos de trabalho que "
+"garantam a dignidade dos Angolanos."
+msgstr ""
+"Contribui para diminuir a poluição do solo, água e ar. Melhora a limpeza da "
+"cidade e a qualidade de vida da população. Gera postos de trabalho que "
+"garantam a dignidade dos Angolanos."
+
+#: View/Pages/reciclagem_aluminio.ctp:23
+msgid "• Recepção e segregação do alumínio por especificação técnica"
+msgstr "• Recepção e segregação do alumínio por especificação técnica"
+
+#: View/Pages/reciclagem_aluminio.ctp:24
+msgid "• Compressao do alumínio em formatos normalizados"
+msgstr "• Compressao do alumínio em formatos normalizados"
+
+#: View/Pages/reciclagem_aluminio.ctp:25
+msgid "• Dois fornos de fundição"
+msgstr "• Dois fornos de fundição"
+
+#: View/Pages/reciclagem_aluminio.ctp:26 View/Pages/reciclagem_baterias.ctp:26
+msgid "• Os fornos são alimentados a óleo usado e assim reutilizado"
+msgstr "• Os fornos são alimentados a óleo usado e assim reutilizado"
+
+#: View/Pages/reciclagem_aluminio.ctp:27
+msgid "• No final as barras de alumínio estão disponíveis para reutlização"
+msgstr "• No final as barras de alumínio estão disponíveis para reutlização"
+
+#: View/Pages/reciclagem_baterias.ctp:23
+msgid "• Recepção e separação"
+msgstr "• Recepção e separação"
+
+#: View/Pages/reciclagem_baterias.ctp:24
+msgid "• Corte das baterias e trituração nos 6 equipamentos disponíveis"
+msgstr "• Corte das baterias e trituração nos 6 equipamentos disponíveis"
+
+#: View/Pages/reciclagem_baterias.ctp:25
+msgid "• Dois fornos rotativos"
+msgstr "• Dois fornos rotativos"
+
+#: View/Pages/reciclagem_baterias.ctp:27
+msgid "• No final as barras de chumbo estão disponíveis para reutlização"
+msgstr "• No final as barras de chumbo estão disponíveis para reutlização"
+
+#: View/Pages/reciclagem_baterias.ctp:28
+msgid ""
+"• O plastico resultante das baterias e tratado no processo descrito na "
+"Reciclagem de Plastico."
+msgstr ""
+"• O plastico resultante das baterias e tratado no processo descrito na "
+"Reciclagem de Plastico."
+
+#: View/Pages/social.ctp:6
+msgid " Responsabilidade Social"
+msgstr " Responsabilidade Social"
+
+#: View/Pages/social.ctp:10
+msgid ""
+" Ao estar inserida numa área populacional crescente,  envolvimento com a "
+"comunidade ganha especial importância, a "
+msgstr ""
+" Ao estar inserida numa área populacional crescente,  envolvimento com a "
+"comunidade ganha especial importância, a "
+
+#: View/Pages/social.ctp:11
+msgid "não fica de fora."
+msgstr "não fica de fora."
+
+#: View/Pages/social.ctp:13
+msgid ""
+"Alem do suporte periódico que a empresa oferece a Comissão de Moradores "
+"local, outras actividades esporádicas tem sido realizadas. "
+msgstr ""
+"Alem do suporte periódico que a empresa oferece a Comissão de Moradores "
+"local, outras actividades esporádicas tem sido realizadas. "
+
+#: View/Pages/social.ctp:16
+msgid ""
+"A mais recente actividade consistiu no envolvimento com a Comissão de "
+"Moradores Bita Sapu e com a Escola Primaria 2051 (ex 9048 Bita Sapu)\n"
+"                para a atribuição de 150 kits escolares aos alunos da 1º "
+"classe do ano lectivo 2014. Os Kits escolares são compostos por:"
+msgstr ""
+"A mais recente actividade consistiu no envolvimento com a Comissão de "
+"Moradores Bita Sapu e com a Escola Primaria 2051 (ex 9048 Bita Sapu)\n"
+"                para a atribuição de 150 kits escolares aos alunos da 1º "
+"classe do ano lectivo 2014. Os Kits escolares são compostos por:"
+
+#: View/Pages/social.ctp:18
+msgid " • Mochila"
+msgstr " • Mochila"
+
+#: View/Pages/social.ctp:19
+msgid " • Boné"
+msgstr " • Boné"
+
+#: View/Pages/social.ctp:20
+msgid " • T-Shirt"
+msgstr " • T-Shirt"
+
+#: View/Pages/social.ctp:21
+msgid " • Caderno de 200 paginas de linhas"
+msgstr " • Caderno de 200 paginas de linhas"
+
+#: View/Pages/social.ctp:22
+msgid " • Caderno de 200 paginas quadriculado"
+msgstr " • Caderno de 200 paginas quadriculado"
+
+#: View/Pages/social.ctp:23
+msgid " • Jogo de Canetas – Azul, Preto e Vermelho"
+msgstr " • Jogo de Canetas – Azul, Preto e Vermelho"
+
+#: View/Pages/social.ctp:24
+msgid " • Jogo e Lápis de Cor"
+msgstr " • Jogo e Lápis de Cor"
+
+#: View/Pages/social.ctp:25
+msgid " • Lápis de Carvão"
+msgstr " • Lápis de Carvão"
+
+#: View/Pages/social.ctp:26
+msgid " • Borracha"
+msgstr " • Borracha"
+
+#: View/Pages/social.ctp:27
+msgid " • Afia-lápis"
+msgstr " • Afia-lápis"
+
+#: View/Pages/social.ctp:30
+msgid ""
+" A entrega dos kits escolares aos futuros Homens e Mulheres teve lugar na "
+"Comissão de Moradores Bita Sapu e na Escola Primaria 2051 na presença\n"
+"                do Presidente da Comissão de Moradores e da Direção da "
+"Escola."
+msgstr ""
+" A entrega dos kits escolares aos futuros Homens e Mulheres teve lugar na "
+"Comissão de Moradores Bita Sapu e na Escola Primaria 2051 na presença\n"
+"                do Presidente da Comissão de Moradores e da Direção da "
+"Escola."
+
+#: View/Pages/social.ctp:34
+msgid ""
+" A Neuerth Angola fica feliz por contribuir também desta forma para o futuro "
+"da Nação Angolana."
+msgstr ""
+" A Neuerth Angola fica feliz por contribuir também desta forma para o futuro "
+"da Nação Angolana."
+
+#: View/Pages/social.ctp:39
+msgid "  A "
+msgstr " A"
+
+#: View/Pages/social.ctp:39
+msgid " Neuerth Angola"
+msgstr " Neuerth Angola"
+
+#: View/Pages/social.ctp:40
+msgid ""
+" ira continuar a colaborar com a comunidade, potenciando o desenvolvimento "
+"de valores que \n"
+"            contribuam para uma sociedade cada vez melhor para as gerações "
+"vindouras e para uma"
+msgstr ""
+" ira continuar a colaborar com a comunidade, potenciando o desenvolvimento "
+"de valores que \n"
+"            contribuam para uma sociedade cada vez melhor para as gerações "
+"vindouras e para uma"
+
+#: View/Pages/social.ctp:41
+msgid " Angola forte"
+msgstr " Angola forte"
+
+#: View/Pages/social.ctp:42
+msgid "no cenário Africano e Mundial."
+msgstr "no cenário Africano e Mundial."
+
+#: View/Pages/social.ctp:45
+msgid " Programa de Qualidade"
+msgstr " Programa de Qualidade"
+
+#: View/Pages/social.ctp:46
+msgid ""
+"Primamos pelo Meio Ambiente, Higiene, Saúde e Segurança dos nossos "
+"colaboradores e parceiros de negocios\n"
+"                ou da comunidade sobre o impacto das suas acções."
+msgstr ""
+"Primamos pelo Meio Ambiente, Higiene, Saúde e Segurança dos nossos "
+"colaboradores e parceiros de negocios\n"
+"                ou da comunidade sobre o impacto das suas acções."
+
+#: View/Pages/social.ctp:51
+msgid ""
+"Contribui para diminuir a poluição do solo, água e ar. Melhora a limpeza da "
+"cidade e a qualidade de vida da população.\n"
+"                Gera postos de trabalho que garantam a dignidade dos "
+"Angolanos."
+msgstr ""
+"Contribui para diminuir a poluição do solo, água e ar. Melhora a limpeza da "
+"cidade e a qualidade de vida da população.\n"
+"                Gera postos de trabalho que garantam a dignidade dos "
+"Angolanos."
