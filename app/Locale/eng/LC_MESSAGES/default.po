@@ -212,7 +212,7 @@ msgid ""
 msgstr ""
 "Where result of which the production of aluminum bars, bars and rods of and "
 "lead granules of polypropylene and polyethylene for \n"
-"              reuse by national and international industry."
+" reuse by national and international industry."
 
 #: View/Pages/quemsomos.ctp:18
 msgid ""
@@ -245,7 +245,7 @@ msgid ""
 msgstr ""
 "We know and we recognize that business operations dedicated to recycling, "
 "are long-term investments, whereas the process of fostering \n"
-"              cultural recycling lasts at least two generations."
+" cultural recycling lasts at least two generations."
 
 #: View/Pages/quemsomos.ctp:26
 msgid "Modelo de Negócio"
@@ -262,9 +262,9 @@ msgid ""
 msgstr ""
 "The business model is based on relevance Neuerth Angola Micro Business as a "
 "way of sharing wealth and job creation. \n"
-"             The business model ensures the development of a network of "
+" The business model ensures the development of a network of "
 "small businesses that serve the growing entrepreneurial dedicated \n"
-"              recycling, with particular emphasis on Micro business that "
+" recycling, with particular emphasis on Micro business that "
 "constitutes the principal means of livelihood of families."
 
 #: View/Pages/quemsomos.ctp:32
@@ -288,7 +288,7 @@ msgstr "Batteries"
 #: View/Pages/linha_reciclagem.ctp:33
 #: View/Pages/quemsomos.ctp:45
 msgid "2.Linha de Reciclagem de "
-msgstr "2.Line Recycling of"
+msgstr "2.Line Recycling of "
 
 #: View/Pages/linha_reciclagem.ctp:33;66
 #: View/Pages/quemsomos.ctp:45
@@ -750,7 +750,7 @@ msgid ""
 msgstr ""
 "The most recent activity was the involvement with the Residents Committee "
 "Bita Sapu and the Primary School 2051 (ex 9048 Bita Sapu) \n"
-"                  . assignment for the 150 school kits to students from 1st "
+" assignment for the 150 school kits to students from 1st "
 "class of the academic year 2014 School Kits consist of:"
 
 #: View/Pages/social.ctp:18
@@ -803,7 +803,7 @@ msgstr ""
 "The delivery of school kits to future Men and Women took place in the "
 "Committee of Residents and Bita Sapu Primary School in 2051 in the "
 "presence \n"
-"                  the President of the Commission Residents and the "
+" the President of the Commission Residents and the "
 "direction of the School."
 
 #: View/Pages/social.ctp:34

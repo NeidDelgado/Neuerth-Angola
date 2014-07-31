@@ -21,7 +21,8 @@
                                 <?php echo $this->Html->link('Facebook', 'http://www.facebook.com/', array('class' => 'header_soc_fb','id' => 'soc_fb', ' escape'=> false)); ?>
                                 <?php echo $this->Html->link('Twitter', 'http://www.twitter.com/', array('class' => 'header_soc_twitter','id' => 'soc_twitter', ' escape'=> false)); ?>
                                 <?php echo $this->Html->link('Twitter', 'http://www.skype.com/', array('class' => 'header_soc_skype','id' => 'soc_skype', ' escape'=> false)); ?>
-                            </div>
+                            
+							</div>
                         </div>
                     </div>
                 <div class="dark_menu men sixteen columns">
@@ -62,11 +63,22 @@
                                 <li>
                                         <?php echo $this->Html->link(__('Onde Estamos'), '/localizacao', array('escape'=> false)); ?>
                                 </li>
+								
+								<li>
+									<?php echo $this->Html->link(__('  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  Eng'), '?lang=eng', array('escape'=> false)); ?>
+								</li>
+								<li>
+									<?php echo $this->Html->link(__('Por'), '?lang=por', array('escape'=> false)); ?>
+								</li> 
+                                       
                             </ul>
                         </div>
                             <select id="select_menu" onchange="location = this.value">
+                             	
                                 <option value=""><?php echo __('Selecione a pagina'); ?></option>
-                                <option value="index"><?php echo __('Home'); ?></option>
+                                <option value="?lang=eng"><?php echo __('Eng'); ?></option>
+                                <option value="?lang=por"><?php echo __('Por'); ?></option>
+                                <option value="/"><?php echo __('Home'); ?></option>
                                 <option value="quemsomos"><?php echo __('Quem Somos'); ?></option>
                                 <option value="linha_reciclagem"><?php echo __('Linhas de Reciclagem'); ?></option>
                                     <option value="reciclagem_baterias"><?php echo __('Linha de Reciclagem de Baterias'); ?></option>

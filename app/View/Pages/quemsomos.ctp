@@ -33,26 +33,26 @@
         </div>
         <div class="colun two-thirdss">
             <span class="icon big_grap"></span>
-            <h4><strong><?php echo __('Linhas de Reciclagem'); ?></strong></h4>
-            <h5><?php echo __('A Unidade de Reciclagem tem implementadas três linhas de reciclagem:'); ?></h5>
-            <p class="footer_pic">
-                 <?php echo $this->Html->link($this->Html->image('footer_th3.png'), '/reciclagem_baterias', array('escape' => false)); ?>
-            </p>
-            <h5><a href="reciclagem_baterias"><?php echo __('1.Linha de Reciclagem de'); ?> <strong><?php echo __('Baterias'); ?></strong>.</a></h5>
-            <p class="footer_pic">
-                <?php echo $this->Html->link($this->Html->image('footer_th5.png'), '/reciclagem_aluminio', array('escape' => false)); ?>
-            </p>
-            <h5><a href="reciclagem_aluminio"><?php echo __('2.Linha de Reciclagem de '); ?><strong><?php echo __('Alumínio'); ?></strong>.</a></h5>
-            <p class="footer_pic">
-                <?php echo $this->Html->link($this->Html->image('footer_th4.png'), '/reciclagem_plastico', array('escape' => false)); ?>
-            </p>
-            <h5><a href="reciclagem_plastico"><?php echo __('3.Linha de Reciclagem de'); ?> <strong><?php echo __('Plástico (PP e PE)'); ?></strong>.</a></h5>
-            <p class="footer_pic">
-                <?php echo $this->Html->link($this->Html->image('footer_th7.png'), '/enchimento_oxigenio', array('escape' => false)); ?>
-            </p>
-            <h5><a href="enchimento_oxigenio"><?php echo __('A Unidade também possui como suporte uma unidade de '); ?><strong>
-                <?php echo __('produção de oxigénio'); ?></strong><?php echo __('para utilizacao industrial.'); ?></a></h5><br><br>
-        </div>
+                <h4><strong><?php echo __('Linhas de Reciclagem'); ?></strong></h4>
+                <h5><?php echo __('A Unidade de Reciclagem tem implementadas três linhas de reciclagem:'); ?></h5>
+                <div class="footer_news_item clearfix">
+                    <p class="footer_pic">
+                        <?php echo $this->Html->link($this->Html->image('footer_th5.png'), '/reciclagem_aluminio', array('escape' => false)); ?>
+                        <h6><a href="reciclagem_aluminio"><?php echo __('2.Linha de Reciclagem de '); ?><strong><?php echo __('Alumínio'); ?></strong>.</a></h6>
+                    </p><br>
+                    <br><br>
+                    <p class="footer_pic">
+                        <?php echo $this->Html->link($this->Html->image('footer_th4.png'), '/reciclagem_plastico', array('escape' => false)); ?>
+                        <h6><a href="reciclagem_plastico"><?php echo __('3.Linha de Reciclagem de '); ?><strong><?php echo __('Plástico (PP e PE)'); ?></strong>.</a></h6>
+                    </p><br><br>
+                    <br>
+                    <p class="footer_pic">
+                        <?php echo $this->Html->link($this->Html->image('footer_th7.png'), '/enchimento_oxigenio', array('escape' => false)); ?>
+                        <h6><a href="enchimento_oxigenio"><?php echo __('A Unidade também possui como suporte uma unidade de '); ?><strong>
+                <?php echo __('produção de oxigénio para utilização industrial.'); ?></a></h6>
+                    </p>
+                    
+                </div>
     </div>		
     <div class="row">
         <h2 class="title sixteen columns"><span><?php echo __('Nossos Serviços'); ?></span></h2>

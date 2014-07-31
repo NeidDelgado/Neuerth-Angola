@@ -1,10 +1,11 @@
 <?php 
 
 ?>
-<div class="container"><br><br><br><br>
-    <span class="title sixteen columns"><h1>&nbsp;&nbsp; &nbsp;<?php echo __('Unidades de Reciclagens'); ?></h1></span>
-    <div class="row section_featured_texts section_featured_texts_no_m">
-        <div class="row">
+    <div class="container"><br><br><br><br>
+    <!-- FlexSlider -->
+    <span class="title sixteen columns"><h1>&nbsp;&nbsp; &nbsp;&nbsp;<?php echo __('Unidades de Reciclagens'); ?></h1></span>
+    <div class="row section_featured_texts section_featured_texts_no_m"><br>
+        <div class="row"><br><br><br>
             <div class="nine columns flexslider"><br>	
                 <ul class="slides services_list">
                   <li><?php echo $this->Html->image('imagem7.png'); ?></li>
@@ -22,31 +23,31 @@
                   <li><?php echo $this->Html->image('imagem18.png'); ?></li>
                 </ul>	
             </div> 	
-            <div class="colun one-third">
-                <span class="icon big_grap"></span>
+           <div class="colun two-thirdss">
+            <span class="icon big_grap"></span>
                 <h4><strong><?php echo __('Linhas de Reciclagem'); ?></strong></h4>
                 <h5><?php echo __('A Unidade de Reciclagem tem implementadas três linhas de reciclagem:'); ?></h5>
                 <div class="footer_news_item clearfix">
                     <p class="footer_pic">
                         <?php echo $this->Html->link($this->Html->image('footer_th5.png'), '/reciclagem_aluminio', array('escape' => false)); ?>
+                        <h6><a href="reciclagem_aluminio"><?php echo __('2.Linha de Reciclagem de '); ?><strong><?php echo __('Alumínio'); ?></strong>.</a></h6>
                     </p><br>
-                    <h6><a href="reciclagem_aluminio"><?php echo __('2.Linha de Reciclagem de '); ?><strong><?php echo __('Alumínio'); ?></strong>.</a></h6><br>
+                    <br><br>
                     <p class="footer_pic">
                         <?php echo $this->Html->link($this->Html->image('footer_th4.png'), '/reciclagem_plastico', array('escape' => false)); ?>
-                    </p><br>
-                    <h6><a href="reciclagem_plastico"><?php echo __('3.Linha de Reciclagem de '); ?><strong><?php echo __('Plástico (PP e PE)'); ?></strong>.</a></h6><br>
+                        <h6><a href="reciclagem_plastico"><?php echo __('3.Linha de Reciclagem de '); ?><strong><?php echo __('Plástico (PP e PE)'); ?></strong>.</a></h6>
+                    </p><br><br>
+                    <br>
                     <p class="footer_pic">
                         <?php echo $this->Html->link($this->Html->image('footer_th7.png'), '/enchimento_oxigenio', array('escape' => false)); ?>
+                        <h6><a href="enchimento_oxigenio"><?php echo __('A Unidade também possui como suporte uma unidade de '); ?><strong>
+                <?php echo __('produção de oxigénio para utilização industrial.'); ?></a></h6>
                     </p>
-                    <h6><a href="enchimento_oxigenio"><?php echo __('A Unidade também possui como suporte uma unidade de produção'); ?><strong>
-                        <?php echo __(' de oxigénio'); ?></strong>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                            <?php echo __('para utilizacao industrial.'); ?></a></h6>
-
                 </div>
             </div>
-        <div class="sixteen columns clearfix">
+        <div class="sixteen columns ">
             <h2 class="title"><span><?php echo __('Unidade de Reciclagem'); ?></span></h2>
-            <table class="aqua_table" width="100%">
+            <table class="aqua_table">
                 <tbody>
                     <tr>
                         <th class="b"><?php echo __('Linha'); ?></th>
