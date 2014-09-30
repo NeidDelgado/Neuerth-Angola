@@ -1,8 +1,4 @@
-<?php 
-   
-?>
 <div class="container"><br><br><br><br>
-    <!-- FlexSlider -->
     <span class="title sixteen columns"><h1>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<?php echo __('Quem Somos'); ?> </h1></span><br>
     <div class="row section_featured_texts section_featured_texts_no_m">
         <div class="column two-thirds">
